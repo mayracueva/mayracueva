@@ -1,5 +1,5 @@
 # Hola, mi nombre es Mayra Cueva 👋
-### Data analyst jr.
+### Data Analyst Jr.
 
 Soy economista de profesión y mi gran pasión son los datos. Actualmente estoy aprendiendo Python aplicado para Data Analytics de la mano de Coding Dojo; estoy segura que esto me ayudará a potenciar en gran manera mis habilidades técnicas.
 
