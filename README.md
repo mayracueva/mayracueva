@@ -1,8 +1,6 @@
 # Hola, mi nombre es Mayra Cueva 👋
 ### Data analyst jr.
 
-[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://discord.gg/NaqyXVads7)
-
 Soy economista de profesión y mi gran pasión son los datos. Actualmente estoy aprendiendo lenguajes de programación como Python y R que me ayudarán a potenciar mis habilidades como analista de datos.
 
 ## Encuéntrame en:
