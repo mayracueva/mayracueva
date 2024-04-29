@@ -1,7 +1,9 @@
 # Hola, mi nombre es Mayra Cueva 👋
-### Data Analyst Jr.
+### Data Analyst.
 
-Soy economista de profesión y mi gran pasión son los datos. Actualmente estoy aprendiendo Python aplicado para Data Analytics de la mano de Coding Dojo Latam; estoy segura que esto me ayudará a potenciar en gran manera mis habilidades técnicas.
+Soy economista de profesión y mi gran pasión son los datos. Obtener información a partir de los datos es algo que realmente me gusta. La información es crucial para la toma de decisiones, pero no siempre viene servida en bandeja de plata, es necesario antes procesar y analizar datos, y aquí es donde entro yo. Como analista de datos, traduzco datos en conocimientos valiosos y comprensibles que permitan tomar decisiones correctas. La visualización de datos y el aprendizaje automático son algunas de las técnicas que estoy utilizando para lograr este objetivo. 
+
+Desde mi primera experiencia laboral, hace cinco años, estuve en contacto con el mundo de los datos, lo que me ha dado experiencia para saber leerlos y generar conocimiento, pero la ciencia de datos está avanzando y hoy existen muchas herramientas que facilitan la exploración y el procesamiento de los datos. Así es como nace mi interés por la programación, lenguajes como R o Python brindan la automatización que se busca para agilizar las tareas alrededor del análisis y visualización de datos, pero también permiten acceder a los beneficios del aprendizaje automático con el uso de algoritmos supervisados y no supervisados. Actualmente estoy aprendiendo Python aplicado para Data Analytics de la mano de Coding Dojo Latam; estoy segura que esto me ayudará a potenciar en gran manera mis habilidades técnicas.
 
 ## Encuéntrame en:
 
